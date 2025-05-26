@@ -1,0 +1,45 @@
+title {
+  text-align: center;
+  font-size: 150%;
+}
+body {
+  background-image: url("electricity.jpg");
+  background-size: cover;
+  background repeat: no repeat;
+}
+ul {
+  font-weight: bold;
+  text-color: red;
+  font-size: 125%;
+}
+ol {
+  font-weight: bold;
+}
+button {
+  url: ("bib.html");
+  background-color: red;
+  border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+p {
+  font-weight: bold;
+}
+h {
+  text-align: center;
+  font-weight: bold;
+  font-size: 150%;
+}
+h3 {
+  text-color: red;
+  font-weight: bold;
+  text-align: center;
+  font-size: 150%;
+}
+
